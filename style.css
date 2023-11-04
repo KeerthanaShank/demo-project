@@ -1,0 +1,19 @@
+.main{
+ display: flex;
+ border: 10px;
+ column-gap: 10px;
+ /* grid: auto auto / auto auto auto auto;
+ grid-gap: 10px; */
+ background-color: green;
+ padding: 10px;
+}
+
+.gfg{
+    background-color: white;
+    text-align: center;
+    padding: 25px;
+    font-size: 30px;
+}
+h1{
+    color:blue;
+}
